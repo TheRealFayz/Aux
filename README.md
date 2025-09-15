@@ -1,5 +1,4 @@
-# aux Turtle
-# Fork of the deleted Shagu addon.
+# aux Turtle - Fork of the deleted Shagu addon.
 
 * Now comes with a new blizz-like theme by default thanks to Oldmana. Use **/aux theme** to switch between them.
 * Shares some price data through the LFT chat when searching the AH, use **/aux sharing** to disable sending and receiving data.
